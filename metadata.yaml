@@ -1,11 +1,16 @@
 _repo: Ruth-s-Marriage-in-Mars-A-Scientific-Novel_56338
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56338-h/images/cover.jpg
 creator:
   author:
     agent_name: Glass, Mrs. Charles Wilder
     gutenberg_agent_id: '48791'
     url: http://www.gutenberg.org/2009/agents/48791
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56338#Ruth-s-Marriage-in-Mars-A-Scientific-Novel
 gutenberg_issued: '2018-01-08'
 gutenberg_type: Text
 identifiers:
